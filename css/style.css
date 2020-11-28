@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 30vh; /* yueyang changed from 60 to 30. */
   position: relative;
 /*  background: url("../img/intro-carousel/1.jpg") no-repeat;  Yueyang Jiang commented this line  */
-  background-size: cover;
+/*  background-size: cover; */
 }
 
 #intro .intro-content {
