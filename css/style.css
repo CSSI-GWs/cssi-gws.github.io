@@ -240,10 +240,14 @@ h1, h2, h3, h4, h5, h6 {
 #intro #intro-carousel::before {
   content: '';
 <<<<<<< HEAD
+<<<<<<< HEAD
 /*  background-color: rgba(255, 255, 255, 0.7);   Yueyang commmeted this because it is not good to have a blur front*/
 =======
 /*  background-color: rgba(255, 255, 255, 0.7); /* Yueyang commented this because I don't like a blur in front of the picture*/
 >>>>>>> main
+=======
+/*  background-color: rgba(255, 255, 255, 0.7); /* Yueyang commented this because I don't like a blur in front of the picture*/
+>>>>>>> b761e2703b8900f9273cf0776005bdbf64645132
   position: absolute;
   height: 100%;
   width: 100%;
