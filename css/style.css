@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro #intro-carousel::before {
   content: '';
-  background-color: rgba(255, 255, 255, 0.7);
+/*  background-color: rgba(255, 255, 255, 0.7);   Yueyang commmeted this because it is not good to have a blur front*/
   position: absolute;
   height: 100%;
   width: 100%;
