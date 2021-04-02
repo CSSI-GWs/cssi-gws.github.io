@@ -15,6 +15,20 @@ body {
   padding: 25 px;
 }
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 45%;
+  padding: 10px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 a {
   color: #0c2e8a;
   transition: 0.5s;
