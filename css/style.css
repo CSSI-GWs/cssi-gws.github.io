@@ -11,7 +11,7 @@ body {
   background: #fff;
   color: #444;
   font-family: "Open Sans", sans-serif;
-  margin: 0 0 10%;  /* To make footer stick to bottom */
+  margin: 0 0 5%;  /* To make footer stick to bottom */
   padding: 25 px;
 }
 
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #555;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   outline: none;
 }
 
@@ -524,7 +524,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Sections Header
 --------------------------------*/
 .section-header {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .section-header h2 {
@@ -728,7 +728,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 #portfolio {
   background: #fff;
-  padding: 30px 0;
+  padding: 0px 0;
 }
 
 #portfolio .portfolio-overlay {
