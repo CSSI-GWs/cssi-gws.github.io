@@ -31,6 +31,12 @@ p {
   margin: 0 0 30px 0;
 }
 
+p.big {
+  line-height: 1.5;
+  font-family: avenir next;
+  font-size: X-large;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
