@@ -51,6 +51,12 @@ p.big {
   font-size: X-large;
 }
 
+p.bigger {
+  line-height: 50;
+  font-family: avenir next;
+  font-size: X-large;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
