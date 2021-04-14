@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #intro {
   width: 100%;
-  height: 35vh; /* yueyang changed from 60 to 30. */
+  height: auto; /* yueyang changed from 60vh to 30vh. */
   position: relative;
 /*  background: url("../img/intro-carousel/1.jpg") no-repeat;  /* Yueyang Jiang commented this line  */
   background-size: cover;
@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro #intro-carousel .item {
-  width: 100%;
+  max-width: 100%;
   height: 30vh; /* yueyang changed from 60 to 30. */
   background-size: cover;
   background-position: center;
